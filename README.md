@@ -1,9 +1,5 @@
 # Generative Image Models for Enhancing License Plate Images Captured at Extreme Viewing Angles
 
-**Department of Electrical Engineering — Final Year Project**
-**Authors:** Igor Adamenko, Orpaz Ben Aharon
-**Supervisor:** Dr. Sasha Apartsin
-
 ---
 
 ## Abstract
@@ -185,9 +181,9 @@ Several notebooks are included at the project root for checking, validation, and
 
 ## Contributors
 
-- **Igor Adamenko**
-- **Orpaz Ben Aharon**
-- **Mentor**: Dr. Sasha Apartsin
+**Department of Electrical Engineering — Final Year Project**
+**Authors:** Igor Adamenko, Orpaz Ben Aharon
+**Supervisor:** Dr. Sasha Apartsin
 
 ---
 
